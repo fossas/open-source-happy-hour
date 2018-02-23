@@ -6,12 +6,12 @@ Open Source Happy Hour is a fun, casual evening where we invite interesting Open
 ## Format
 These are casual events, so feel free to mix it up!  At FOSSA, we typically lead with a featured guest of honor, series of lightning talks, and plenty of time to drink and hang out.
 
-**Previous Events**
- - TBA
+**Upcoming Events**
+ - [Mar 21st in San Francisco](https://www.meetup.com/meetup-group-rhOxFKrz/events/248038247/)
 
 ## How to Attend
-Register using the links below and show up!
- - TBA
+[Join our Meetup Group](https://www.meetup.com/meetup-group-rhOxFKrz/events/248038247/) and show up!
+
 
 ## Hosting your Own
 We want to support you in hosting your own OSS Happy Hour!
